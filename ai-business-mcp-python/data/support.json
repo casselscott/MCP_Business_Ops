@@ -1,0 +1,37 @@
+[
+  {
+    "ticket_id": 101,
+    "client": "BlueCore",
+    "issue": "Billing discrepancy",
+    "status": "Resolved",
+    "priority": "High"
+  },
+  {
+    "ticket_id": 102,
+    "client": "TechNova",
+    "issue": "API not responding",
+    "status": "Pending",
+    "priority": "Critical"
+  },
+  {
+    "ticket_id": 103,
+    "client": "GreenAI",
+    "issue": "Login failure",
+    "status": "Resolved",
+    "priority": "Medium"
+  },
+  {
+    "ticket_id": 104,
+    "client": "NextGenSoft",
+    "issue": "Feature request",
+    "status": "Open",
+    "priority": "Low"
+  },
+  {
+    "ticket_id": 105,
+    "client": "DataFlow Inc",
+    "issue": "Performance issues",
+    "status": "In Progress",
+    "priority": "High"
+  }
+]

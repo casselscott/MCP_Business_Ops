@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "client": "TechNova",
+    "amount": 15000,
+    "status": "Closed Won",
+    "region": "North America"
+  },
+  {
+    "id": 2,
+    "client": "BlueCore",
+    "amount": 7000,
+    "status": "In Progress",
+    "region": "Europe"
+  },
+  {
+    "id": 3,
+    "client": "GreenAI",
+    "amount": 12000,
+    "status": "Closed Won",
+    "region": "Asia"
+  },
+  {
+    "id": 4,
+    "client": "NextGenSoft",
+    "amount": 5000,
+    "status": "Lost",
+    "region": "North America"
+  },
+  {
+    "id": 5,
+    "client": "DataFlow Inc",
+    "amount": 20000,
+    "status": "Closed Won",
+    "region": "Europe"
+  }
+]

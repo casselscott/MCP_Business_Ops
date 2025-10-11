@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "department": "Engineering",
+    "salary": 95000,
+    "performance": "Excellent"
+  },
+  {
+    "id": 2,
+    "name": "Jane Smith",
+    "department": "Sales",
+    "salary": 80000,
+    "performance": "Good"
+  },
+  {
+    "id": 3,
+    "name": "Michael Tan",
+    "department": "Marketing",
+    "salary": 72000,
+    "performance": "Average"
+  },
+  {
+    "id": 4,
+    "name": "Fatima Ahmed",
+    "department": "Support",
+    "salary": 60000,
+    "performance": "Excellent"
+  },
+  {
+    "id": 5,
+    "name": "Chris Johnson",
+    "department": "Engineering",
+    "salary": 110000,
+    "performance": "Good"
+  }
+]
